@@ -3,4 +3,4 @@ This is a test with transaction rollback, stored procedure and simple data
 1. Run script CreateDB.sql
 2. Run script CreateObjects.sql
 3. Compile it
-4. Run tests with NUnit
+4. Run test with NUnit. Will fail.
